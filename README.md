@@ -7,7 +7,7 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=30FDCB&center=true&vCenter=true&width=420&lines=👨‍💻+Hi,+I'm+Soumya+Mishra;Frontend+%26+Full-Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=30FDCB&center=true&vCenter=true&width=420&lines=👨‍💻+Hi,+I'm+Soumya+Mishra;Frontend+%26+Full-Stack+Developer;Building+Scalable+Web+Apps;MERN+Stack+Enthusiast" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
