@@ -35,46 +35,49 @@ I enjoy turning **vague ideas into structured, production-ready systems** and be
 ## 🛠️ Tech Stack
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Languages</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=js,ts,cpp,c" height="32"/>
-        <img src="https://skillicons.dev/icons?i=html,css" height="32"/>
-      </p>
+<tr>
+<td valign="top" width="50%">
 
-      <h4>Databases</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=mongodb" height="32"/>
-      </p>
+#### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,c" height="32"/>
+<img src="https://skillicons.dev/icons?i=html,css" height="32"/>
+</p>
 
-      <h4>Core CS</h4>
-      <p>
-        Data Structures & Algorithms<br/>
-        Problem Solving<br/>
-        Clean Architecture
-      </p>
-    </td>
+#### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" height="32"/>
+</p>
 
-    <td valign="top" width="50%">
-      <h4>Frameworks & Libraries</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" height="32"/>
-      </p>
+#### Core CS
+<p>
+Data Structures & Algorithms<br/>
+Problem Solving<br/>
+Clean Architecture
+</p>
 
-      <h4>Tools & Platforms</h4>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="32"/>
-      </p>
+</td>
+<td valign="top" width="50%">
 
-      <h4>Practices</h4>
-      <p>
-        REST API Design<br/>
-        Scalable Web Apps<br/>
-        Code Refactoring
-      </p>
-    </td>
-  </tr>
+#### Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" height="32"/>
+</p>
+
+#### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="32"/>
+</p>
+
+#### Practices
+<p>
+REST API Design<br/>
+Scalable Web Apps<br/>
+Code Refactoring
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
