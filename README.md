@@ -7,29 +7,26 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=30FDCB&center=true&vCenter=true&width=420&lines=👨‍💻Hi%2C+I'm+Soumya+Mishra;Frontend+%26+Full-Stack+Developer;MERN+Stack+Engineer;B.Tech+CSE+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=30FDCB&center=true&vCenter=true&width=420&lines=👨‍💻+Hi,+I'm+Soumya+Mishra;Frontend+%26+Full-Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </h1>
 
-<!-- Short introduction below the banner -->
 <p align="center">
   🚀 Passionate about building scalable web applications with clean architecture. <br/>
   🎓 B.Tech Computer Science & Engineering, India (2024–2028).
 </p>
 
-<p align="center" style="margin-bottom:0.6em;">
-  <b>
-    2nd Year B.Tech Student &nbsp;|&nbsp; Software Engineering Intern Aspirant &nbsp;|&nbsp; India
-  </b>
+<p align="center">
+  <b>2nd Year B.Tech Student  |  Software Engineering Intern Aspirant  |  India</b>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 <b>Education:</b> B.Tech CSE (2024–2028)
-- 💼 <b>Focus:</b> Frontend, Full-Stack (MERN), Backend Fundamentals
-- 🌱 <b>Currently:</b> Building real-world MERN projects & strengthening DSA
-- 🏅 <b>Strengths:</b> Problem Solving, Clean Code, Fast Learner, Strong Fundamentals
+- 🎓 **Education:** B.Tech CSE (2024–2028)
+- 💼 **Focus:** Frontend, Full-Stack (MERN), Backend Fundamentals
+- 🌱 **Currently:** Building real-world MERN projects & strengthening DSA
+- 🏅 **Strengths:** Problem Solving, Clean Code, Fast Learner, Strong Fundamentals
 
 I enjoy turning **vague ideas into structured, production-ready systems** and believe great software starts with **clarity of thought, not just frameworks**.
 
@@ -82,7 +79,7 @@ I enjoy turning **vague ideas into structured, production-ready systems** and be
 
 ---
 
-## 🧩 What I’m Working On
+## 🧩 What I'm Working On
 
 - 🚀 Full-stack MERN projects solving real problems  
 - 🧠 Strengthening **DSA & problem-solving** using C/C++  
@@ -112,39 +109,47 @@ I enjoy turning **vague ideas into structured, production-ready systems** and be
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoumyaMishra-7&theme=tokyonight&hide_border=false&include_all_commits=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=SoumyaMishra-7&theme=tokyonight&hide_border=false" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaMishra-7&theme=tokyonight&hide_border=false&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SoumyaMishra-7&theme=tokyonight&hide_border=false&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=SoumyaMishra-7&theme=tokyonight&hide_border=false" height="170" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaMishra-7&theme=tokyonight&hide_border=false&layout=compact" height="170" alt="Top Languages"/>
 </div>
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SoumyaMishra-7&theme=juicyfresh" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SoumyaMishra-7&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 <h3 align="center">Connect with Me</h3>
+
 <p align="center">
   <a href="mailto:soumyamishra788@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/soumya-mishra">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/SoumyaMishra-7">
-    <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyaMishra-7&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="SoumyaMishra-7 activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyaMishra-7&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 <!--
   Notes:
-  - Replace “Coming Soon” portfolio once live
+  - Replace "Coming Soon" portfolio once live
   - Pin your best projects on GitHub for maximum impact
   - This README is optimized for recruiters & internships
 -->
-
